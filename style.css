@@ -245,7 +245,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-1.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -338,7 +337,7 @@ menu li:last-child {
   top: -65px;
   right: -30px;
   border: 1px solid #2c71b8;
-  background: url(images/square.png) no-repeat;
+  background-color: rgba(202, 219, 237, 0.65);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -373,9 +372,9 @@ menu li:last-child {
   top: -25px;
   right: 8px;
   border: 1px solid #2c71b8;
-  background: url(images/like.png) no-repeat;
   display: flex;
   align-items: center;
+  background-color: rgba(202, 219, 237, 0.65);
   justify-content: center;
   margin: 4px;
   outline: none;
@@ -410,7 +409,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-2.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -423,7 +421,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-3.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -446,7 +443,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-4.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -459,7 +455,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-5.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -472,7 +467,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-6.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -485,7 +479,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-7.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -498,7 +491,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-2.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -511,7 +503,6 @@ menu li:last-child {
   align-items: center;
   justify-content: right;
   outline: none;
-  background-image: url(images/all-3.png);
   background-repeat: no-repeat;
   background-position: center;
 }
